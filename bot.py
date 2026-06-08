@@ -6,7 +6,7 @@ import urllib.parse
 # CONFIG
 BOT_TOKEN = "8994843364:AAGj-MFneDBNqQ3PL2o4JMpbxkSOZzmUuWU"
 CHANNEL_USERNAME = "@MilanHubOff"
-YOUR_TELEGRAM_ID = "@MegatorOne"
+YOUR_TELEGRAM_ID = "6509006033"
 
 logging.basicConfig(level=logging.INFO)
 
